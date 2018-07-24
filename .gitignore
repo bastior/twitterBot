@@ -1,0 +1,8 @@
+*.pyc
+*.swp
+*.swo
+followe*.txt
+.idea
+foundTweets.txt
+trends.txt
+log.txt
